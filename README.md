@@ -21,10 +21,10 @@ The details of the upcoming banners are still unknown. However, the promotional 
 #### Commands List
 | Category | Commands | Description |
 | -        | -        | -           |
-| Character | ws!character <name> [level]        | Shows the basic information of a character.
-| Character | ws!character list [rarity]         | Shows the list of the playable characters.
-| Character | ws!character skills <name>         | Shows the skills and passive talents of a character.
-| Character | ws!character constellations <name> | Shows the constellation details of a character.
+| Character | ws!character <name> [level]        | Shows the basic information of a character. |
+| Character | ws!character list [rarity]         | Shows the list of the playable characters. |
+| Character | ws!character skills <name>         | Shows the skills and passive talents of a character. |
+| Character | ws!character constellations <name> | Shows the constellation details of a character. |
 |
 | Gacha | ws!gacha <banner>    | Roll on one of the banners.
 | Gacha | ws!gacha list        | Shows the list of all the available banners.
