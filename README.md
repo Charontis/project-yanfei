@@ -25,18 +25,18 @@ The details of the upcoming banners are still unknown. However, the promotional 
 | Characters | ws!character constellations <name> | Shows the constellation details of a character.
 | Characters | ws!character list [rarity]         | Shows the list of the playable characters.
 | Characters | ws!character skills <name>         | Shows the skills and passive talents of a character.
-|
+| -        | -        | -           |
 | Gacha | ws!gacha <banner>    | Roll on one of the banners.
 | Gacha | ws!gacha history     | Shows previous 100 rolls.
 | Gacha | ws!gacha list        | Shows the characters, weapons, and their rates on a banner.
 | Gacha | ws!gacha rates       | Shows the list of all the available banners.
-|
+| -        | -        | -           |
 | Miscellaneous | was!credits |  Shows the list of people who have contributed to the bot.
 | Miscellaneous | ws!help [command] | Shows all the available commands that you can use.
 | Miscellaneous | ws!invite | Shows the link to invite the bot.
 | Miscellaneous | ws!status | Shows the information of the bot.
 | Miscellaneous | ws!time | Shows current server time for different servers.
-|
+| -        | -        | -           |
 | Moderation | ws!channel blacklist <channel / category> | Sets the bot to ignore commands called on a category or channel.
 | Moderation | ws!channel whitelist <channel / category> | Stops the bot from ignoring commands called on a category or channel.
 | Moderation | ws!command blacklist <command>            | Sets the bot to ignore certain commands.
@@ -46,11 +46,11 @@ The details of the upcoming banners are still unknown. However, the promotional 
 | Moderation | ws!channel whitelist [channel / category] | Stops the bot from ignoring commands called on a category or channel.
 | Moderation | ws!settings                               | Shows personal settings for user, and configured permissions for this server.
 | Moderation | ws!settings reset [guild / personal]      | Resets personal settings for user, or all the configured permissions for this server. If nothing is provided, the operation will reset personal settings.
-|
+| -        | -        | -           |
 | Prefix | ws!prefix | Shows the current prefix for this server.
 | Prefix | ws!prefix <string> | Changes the current prefix for this server. Maximum 6 characters.
 | Prefix | ws!prefix reset | Resets the current prefix for this server.
-|
+| -        | -        | -           |
 | Profile | ws!profile [user]               | Shows the profile of a user.
 | Profile | ws!profile avatar <character>   | Changes the avatar of the profile.
 | Profile | ws!profile namecard <namecard>  | Changes the namecard background of the profile.
