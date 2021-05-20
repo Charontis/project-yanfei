@@ -1,4 +1,3 @@
-#### Banners List
 | ID  | Category      | Banner Name                  | Banner Aliases  |
 | --  | ------------- | ---------------------------- | --------------  |
 | #0  | Limited Wish  |  Beginners' Wish             |  beginner       |
