@@ -45,22 +45,22 @@ The details of the upcoming banners are still unknown. However, the promotional 
 | Moderation | ws!commands enable                        | Enables all command usage on the server. This setting can't override the other permission commands.
 | Moderation | ws!channel whitelist [channel / category] | Stops the bot from ignoring commands called on a category or channel.
 | Moderation | ws!settings                               | Shows personal settings for user, and configured permissions for this server.
+| Moderation | ws!settings [options]                     | Change the personal settings, and configured permissions through the settings command.
 | Moderation | ws!settings reset [guild / personal]      | Resets personal settings for user, or all the configured permissions for this server. If nothing is provided, the operation will reset personal settings.
 | -        | -        | -           |
 | Prefix | ws!prefix | Shows the current prefix for this server.
 | Prefix | ws!prefix <string> | Changes the current prefix for this server. Maximum 6 characters.
 | Prefix | ws!prefix reset | Resets the current prefix for this server.
 | -        | -        | -           |
-| Profile | ws!profile [user]               | Shows the profile of a user.
-| Profile | ws!profile avatar <character>   | Changes the avatar of the profile.
-| Profile | ws!profile namecard <namecard>  | Changes the namecard background of the profile.
-| Profile | ws!profile signature <messages> | Changes the signature of the profile. Maximum 512 characters. You can write on next line by adding \n (regex next line) in the profile signature.
-| Profile | ws!profile uid <uid>            | Changes the uid of the profile. Maximum 9 characters.
+| Profile | ws!profile [user]                           | Shows the profile of a user.
+| Profile | ws!profile avatar <character>               | Changes the avatar of the profile.
+| Profile | ws!profile namecard <character / namecard>  | Changes the namecard background of the profile.
+| Profile | ws!profile signature <messages>             | Changes the signature of the profile. Maximum 1024 characters. You can write on next line by adding \n (regex next line) in the profile signature.
+| Profile | ws!profile uid <uid>                        | Changes the uid of the profile. Maximum 9 characters.
   
 #### Upcoming Features
 - Custom - Able to create a custom banner, with custom rating, stardusts and starglitters.
 - Inventory - Shows their moras, stardusts, starglitters, primogems and characters they owned.
-
 
 ## Credits
 - </another>#1678 and .𝐼𝒹𝑒𝒶𝓁𝒾𝓈𝓉𝒶™ ☕#5935 - Developers
