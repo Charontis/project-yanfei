@@ -63,6 +63,6 @@ The details of the upcoming banners are still unknown. However, the promotional 
 - Inventory - Shows their moras, stardusts, starglitters, primogems and characters they owned.
 
 ## Credits
-- </another>#1678 and .𝐼𝒹𝑒𝒶𝓁𝒾𝓈𝓉𝒶™ ☕#5935 - Developers
+- \</another\>#1678 and .𝐼𝒹𝑒𝒶𝓁𝒾𝓈𝓉𝒶™ ☕#5935 - Developers
 - xStarRiver#1616, Brayden Leung#6139 and UASN Stellania#4885 - Contributors
 - Saeed#3680, KLEIN#6784, 試吓唔好咁#1426, Thomas3388#0267, CallousNovem#7397 and I love プルシュカ#9722 - Beta Testers
