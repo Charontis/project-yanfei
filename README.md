@@ -2,7 +2,7 @@
 
 Wishing Simulator is a Genshin Impact discord bot that focuses on the gacha system.
 
-The default prefix is `ws!`, which can be changed customizable up to 6 letters. The bot can be called by mentioning or using the default prefix on the server.
+The default prefix is `ws!`, which can be changed customizable up to 6 letters. The bot can be called by mentioning or using the guild customizable prefix.
 Some category commands require users to have the `Manage Server` permission to proceed.
 
 This bot requires the following permissions to work functionally.
