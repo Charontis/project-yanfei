@@ -21,21 +21,18 @@ The details of the upcoming banners are still unknown. However, the promotional 
 #### Commands List
 | Category | Commands | Description |
 | -        | -        | -           |
-| Characters | ws!character <name> [level]        | Shows the basic information of a character.
-| Characters | ws!character constellations <name> | Shows the constellation details of a character.
-| Characters | ws!character list [rarity]         | Shows the list of the playable characters.
-| Characters | ws!character skills <name>         | Shows the skills and passive talents of a character.
-| -        | -        | -           |
 | Gacha | ws!gacha <banner>    | Roll on one of the banners.
-| Gacha | ws!gacha history     | Shows previous 100 rolls.
-| Gacha | ws!gacha list        | Shows the characters, weapons, and their rates on a banner.
-| Gacha | ws!gacha rates       | Shows the list of all the available banners.
+| Gacha | ws!gacha history     | Displays previous gacha results. Up to 900 wishes.
+| Gacha | ws!gacha list        | Lists all the available banners of Genshin Impact, including past, current and upcoming banners.
+| Gacha | ws!gacha rates       | Shows the weapons, characters and their gacha rates on each of the banners.
 | -        | -        | -           |
-| Miscellaneous | was!credits |  Shows the list of people who have contributed to the bot.
-| Miscellaneous | ws!help [command] | Shows all the available commands that you can use.
-| Miscellaneous | ws!invite | Shows the link to invite the bot.
-| Miscellaneous | ws!status | Shows the information of the bot.
-| Miscellaneous | ws!time | Shows current server time for different servers.
+| Miscellaneous | was!credits       |  Shows the list of people who have contributed to the bot.
+| Miscellaneous | ws!help [command] | Shows the command usage, aliases and description. If nothing is provided, shows the help menu instead.
+| Miscellaneous | ws!invite         | Shows the link to invite the bot.
+| Miscellaneous | ws!report         | Send a bug report or suggestion to the developers.
+| Miscellaneous | ws!status         | Shows the information of the bot.
+| Miscellaneous | ws!time           | Shows current server time for different servers.
+| Miscellaneous | ws!vote           | Sends the link to vote for the bot. You can vote again in 12 hours.
 | -        | -        | -           |
 | Moderation | ws!channel blacklist <channel / category> | Sets the bot to ignore commands called on a category or channel.
 | Moderation | ws!channel whitelist <channel / category> | Stops the bot from ignoring commands called on a category or channel.
@@ -46,17 +43,24 @@ The details of the upcoming banners are still unknown. However, the promotional 
 | Moderation | ws!channel whitelist [channel / category] | Stops the bot from ignoring commands called on a category or channel.
 | Moderation | ws!settings                               | Shows personal settings for user, and configured permissions for this server.
 | Moderation | ws!settings [options]                     | Change the personal settings, and configured permissions through the settings command.
-| Moderation | ws!settings reset [guild / personal]      | Resets personal settings for user, or all the configured permissions for this server. If nothing is provided, the operation will reset personal settings.
+| Moderation | ws!settings reset [guild / personal]      | Resets personal settings, or the configured permissions for this server. If nothing is provided, the operation will reset their personal settings instead.
 | -        | -        | -           |
-| Prefix | ws!prefix | Shows the current prefix for this server.
+| Prefix | ws!prefix          | Shows the current prefix for this server.
 | Prefix | ws!prefix <string> | Changes the current prefix for this server. Maximum 6 characters.
-| Prefix | ws!prefix reset | Resets the current prefix for this server.
+| Prefix | ws!prefix reset    | Resets the current prefix for this server.
 | -        | -        | -           |
-| Profile | ws!profile [user]                           | Shows the profile of a user.
-| Profile | ws!profile avatar <character>               | Changes the avatar of the profile.
-| Profile | ws!profile namecard <character / namecard>  | Changes the namecard background of the profile.
-| Profile | ws!profile signature <messages>             | Changes the signature of the profile. Maximum 1024 characters. You can write on next line by adding \n (regex next line) in the profile signature.
-| Profile | ws!profile uid <uid>                        | Changes the uid of the profile. Maximum 9 characters.
+| Profile | ws!profile [user]                          | Shows the profile of a user. If nothing is provided, this will show their user information instead.
+| Profile | ws!profile avatar <character>              | Changes the avatar on their profile.
+| Profile | ws!profile namecard <character / namecard> | Changes the namecard background on their profile.
+| Profile | ws!profile signature <messages>            | Changes the signature of the profile. Maximum 1024 characters.
+| Profile | ws!profile uid <uid>                       | Changes the uid on their profile. Maximum 9 characters.
+| -        | -        | -           |
+| Wiki | ws!character [level] <name>                | Displays information of a character, such as HP, ATK, DEF and substats.
+| Wiki | ws!character constellations <name>         | Shows the constellation details of a character.
+| Wiki | ws!character list [rarity]                 | Shows the list of the playable characters.
+| Wiki | ws!character skills <name>                 | Shows the skills and passive talents of a character.
+| Wiki | ws!weapon [level] [refinement rank] <name> | Displays information of a weapon, such as mainstats, substats and their passive.
+| Wiki | ws!weapon list [rarity]                    | Lists all the weapons in game, including upcoming weapons.
   
 #### Upcoming Features
 - Custom - Able to create a custom banner, with custom rating, stardusts and starglitters.
