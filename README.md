@@ -1,6 +1,6 @@
-## ![Yanfei](­.png)
+## Yanfei
 
-###### My name is Yanfei, a top legal expert in Liyue — and for the avoidance of doubt, no one else comes close! My contact details... Where should I write this down? ...Hmm, I'll just write it here, whatever this thing is that follows you around.
+#### My name is Yanfei, a top legal expert in Liyue — and for the avoidance of doubt, no one else comes close! My contact details... Where should I write this down? ...Hmm, I'll just write it here, whatever this thing is that follows you around.
 ---
 
 The default prefix is `y!`, and can be changed up to 6 letters. Yanfei can also be called out by mentioning or guild customized prefix. However, some commands require users to have `Manage Server` permission.
@@ -51,3 +51,5 @@ The details about the upcoming banners are still unknown. Therefore, those banne
 - \</another\>#1678 and .𝐼𝒹𝑒𝒶𝓁𝒾𝓈𝓉𝒶™ ☕#5935 - Developers
 - xStarRiver#1616, Brayden Leung#6139 and UASN Stellania#4885 - Contributors
 - Saeed#3680, KLEIN#6784, 試吓唔好咁#1426, Thomas3388#0267, CallousNovem#7397 and I love プルシュカ#9722 - Beta Testers
+
+[do not click these](https://raw.githubusercontent.com/Another7139/yanfei/main/%C2%AD.jpeg) [hyperlinks](https://raw.githubusercontent.com/Another7139/yanfei/main/%C2%AD.jpg) [on this message](https://raw.githubusercontent.com/Another7139/yanfei/main/%C2%AD.jpeg)
