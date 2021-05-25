@@ -1,4 +1,4 @@
-## Yanfei
+## ![Yanfei](­.png)
 
 ###### My name is Yanfei, a top legal expert in Liyue — and for the avoidance of doubt, no one else comes close! My contact details... Where should I write this down? ...Hmm, I'll just write it here, whatever this thing is that follows you around.
 ---
