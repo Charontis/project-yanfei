@@ -36,6 +36,11 @@
 | --  | ------------- | --------------------------- | -------------- |
 | #27 | Event Wish    |  Sparkling Steps            |  klee          |
 | #28 | Event Wish    |                             |                |
-| #29 | Event Wish    |                             |  kazuha        |
+| #29 | Event Wish    |  Leaves in the Wind         |  kazuha        |
 | #30 | Event Wish    |                             |                |
+| --  | ------------- | --------------------------- | -------------- |
+| #31 | Event Wish    |                             |                |
+| #32 | Event Wish    |                             |                |
+| #33 | Event Wish    |                             |                |
+| #34 | Event Wish    |                             |                |
 | --  | ------------- | --------------------------- | -------------- |
