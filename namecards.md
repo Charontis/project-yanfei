@@ -86,10 +86,10 @@
 | #4011 | Concept Art          | Inazuma: ???                                                |                  |
 | #4012 | Concept Art          | Inazuma: Grand Narukami Shrine, Mt. Yougou, Narukami Island |                  |
 | ----- | -------------------- | ----------------------------------------------------------- | ---------------- |
-| #9001 | Viewpoint Background | The City of Wind: Mondstadt                                 | freedom          |
-| #9002 | Viewpoint Background | Knights of Favonius - Library: Mondstadt                    | library          |
-| #9003 | Viewpoint Background | Favonius Cathedral: Mondstadt                               | cathedral        |
-| #9004 | Viewpoint Background | Where Merchants Flock And All Ships Dock: Liyue Harbor      | harbor           |
-| #9005 | Viewpoint Background | Yujing Terrace: Liyue Harbor                                | yujing           |
-| #9006 | Viewpoint Background | Chihu Rock: Liyue Harbor                                    | chihu            |
-| #9007 | Viewpoint Background | Feiyun Slope: Liyue Harbor                                  | feiyun           |
+| #9001 | Viewpoint Background | The City of Wind: Mondstadt                                 |                  |
+| #9002 | Viewpoint Background | Knights of Favonius - Library: Mondstadt                    |                  |
+| #9003 | Viewpoint Background | Favonius Cathedral: Mondstadt                               |                  |
+| #9004 | Viewpoint Background | Where Merchants Flock And All Ships Dock: Liyue Harbor      |                  |
+| #9005 | Viewpoint Background | Yujing Terrace: Liyue Harbor                                |                  |
+| #9006 | Viewpoint Background | Chihu Rock: Liyue Harbor                                    |                  |
+| #9007 | Viewpoint Background | Feiyun Slope: Liyue Harbor                                  |                  |
