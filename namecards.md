@@ -1,4 +1,4 @@
-## Copyright © [miHoYo](https://mihoyo.com/).
+# Copyright © [miHoYo](https://mihoyo.com/).
 
 | ID    | Category             | Namecard Name                                               | Namecard Aliases |
 | ----- | -------------------- | ----------------------------------------------------------- | ---------------- |
