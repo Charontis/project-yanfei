@@ -1,13 +1,11 @@
 ## Yanfei
 
-#### My name is Yanfei, a top legal expert in Liyue — and for the avoidance of doubt, no one else comes close! My contact details... Where should I write this down? ...Hmm, I'll just write it here, whatever this thing is that follows you around.
+#### My name is Yanfei, a top legal expert in Liyue — and for the avoidance of doubt, no one else comes close! My contact details... Where should I write this down? ...Hmm, I'll just write it here, whatever this thing that follows you around.
 ---
 
-The default prefix is `y!`, and can be changed up to 6 letters. Yanfei can also be called out by mentioning or guild customized prefix. However, some commands require users to have `Manage Server` permission.
+The default prefix is `y!`, and can be changed customizable. Yanfei can also be called out by mentioning or guild customized prefix. However, some commands require users to have `Manage Server` permission.
 
-Yanfei lists all the banners in Genshin Impact, including past, current and upcoming banners. **(Does not include CBT banners.)**
-
-The details about the upcoming banners are still unknown. Therefore, those banners will still be shown on the gacha listing page but they do not include on the gacha rating page.
+Yanfei lists all the banners in Genshin Impact, including past, current and upcoming banners. Click [here](https://github.com/Another7139/yanfei/blob/main/banners.md) for a list of available banners. The details about the upcoming banners are still unknown. Therefore, those banners will still be shown on the gacha listing page but they do not include on the gacha rating page.
 
 #### Yanfei available commands
 | Category | Commands | Description |
@@ -33,13 +31,13 @@ The details about the upcoming banners are still unknown. Therefore, those banne
 | Moderation | y!settings [options]                     | Change the personal settings, and configured permissions through the settings command.
 | Moderation | y!settings reset [guild / personal]      | Resets personal settings, or the configured permissions for this server. If nothing is provided, the operation will reset their personal settings instead.
 | Prefix | y!prefix          | Shows the current prefix for this server.
-| Prefix | y!prefix <string> | Changes the current prefix for this server. Maximum 6 characters.
+| Prefix | y!prefix <string> | Changes the current prefix for this server.
 | Prefix | y!prefix reset    | Resets the current prefix for this server.
-| Profile | y!profile [user]                          | Shows the profile of a user. If nothing is provided, this will show their user information instead.
-| Profile | y!profile avatar <character>              | Changes the avatar on their profile.
-| Profile | y!profile namecard <character / namecard> | Changes the namecard background on their profile.
-| Profile | y!profile signature <messages>            | Changes the signature of the profile. Maximum 1024 characters.
-| Profile | y!profile uid <uid>                       | Changes the uid on their profile. Maximum 9 characters.
+| Profile | y!profile [user]                               | Shows the profile of a user. If nothing is provided, this will show their user information instead.
+| Profile | y!profile avatar <character>                   | Changes the avatar on their profile.
+| Profile | y!profile namecard <id / namecard / character> | Changes the namecard background on their profile. Click [here](https://github.com/Another7139/yanfei/blob/main/namecards.md) for a list of available namecards.
+| Profile | y!profile signature <messages>                 | Changes the signature of the profile.
+| Profile | y!profile uid <uid>                            | Changes the uid on their profile. Maximum 9 characters.
 | Wiki | y!character [level] <name>                | Displays information of a character, such as HP, ATK, DEF and substats.
 | Wiki | y!character constellations <name>         | Shows the constellation details of a character.
 | Wiki | y!character list [rarity]                 | Shows the list of the playable characters.
