@@ -87,9 +87,29 @@
 | #4012 | Concept Art          | Inazuma: Grand Narukami Shrine, Mt. Yougou, Narukami Island |                  |
 | ----- | -------------------- | ----------------------------------------------------------- | ---------------- |
 | #9001 | Viewpoint Background | The City of Wind: Mondstadt                                 |                  |
-| #9002 | Viewpoint Background | Knights of Favonius - Library: Mondstadt                    |                  |
-| #9003 | Viewpoint Background | Favonius Cathedral: Mondstadt                               |                  |
-| #9004 | Viewpoint Background | Where Merchants Flock And All Ships Dock: Liyue Harbor      |                  |
-| #9005 | Viewpoint Background | Yujing Terrace: Liyue Harbor                                |                  |
-| #9006 | Viewpoint Background | Chihu Rock: Liyue Harbor                                    |                  |
-| #9007 | Viewpoint Background | Feiyun Slope: Liyue Harbor                                  |                  |
+| #9002 | Viewpoint Background | The Marsh of Celestial Guardians: Starfell Lake             |                  |
+| #9003 | Viewpoint Background | Windswept Wilderness: Windrise                              |                  |
+| #9004 | Viewpoint Background | Land of Clear Springs: Springvale                           |                  |
+| #9005 | Viewpoint Background | Manor of Daybreak: Dawn Winery                              |                  |
+| #9006 | Viewpoint Background | Favonius Cathedral: Mondstadt                               |                  |
+| #9007 | Viewpoint Background | Knights of Favonius - Library: Mondstadt                    |                  |
+| #9008 | Viewpoint Background | Ancient Thousand Winds Temple: Thousand Winds Temple        |                  |
+| #9009 | Viewpoint Background | Forgotten Sword Cemetery: Dadaupa Gorge                     |                  |
+| #9010 | Viewpoint Background | Abandoned Capital of Howling Winds: Stormterror's Lair      |                  |
+| #9011 | Viewpoint Background | Where Merchants Flock And All Ships Dock: Liyue Harbor      |                  |
+| #9012 | Viewpoint Background | Feiyun Slope: Liyue Harbor                                  |                  |
+| #9013 | Viewpoint Background | Chihu Rock: Liyue Harbor                                    |                  |
+| #9014 | Viewpoint Background | Yujing Terrace: Liyue Harbor                                |                  |
+| #9015 | Viewpoint Background | Vigilant Guardians' Vantage Point: Wangshu Inn              |                  |
+| #9016 | Viewpoint Background | Marsh of Rustling Reeds: Dihua Marsh                        |                  |
+| #9017 | Viewpoint Background | Ruins of Guili: Guili Plains                                |                  |
+| #9018 | Viewpoint Background | A Home in the Hills: Qingce Village                         |                  |
+| #9019 | Viewpoint Background | Where Mountains Peak Beyond the Clouds: Jueyun Karst        |                  |
+| #9020 | Viewpoint Background | Moonlit Tree: Nantianmen                                    |                  |
+| #9021 | Viewpoint Background | Mist-Veiled Stone Forest: Huaguang Stone Forest             |                  |
+| #9022 | Viewpoint Background | Weeping Garden: Luhua Pool                                  |                  |
+| #9023 | Viewpoint Background | A Drop in the Ocean: Guyun Stone Forest                     |                  |
+| #9024 | Viewpoint Background | Beyond the Chasm: The Chasm                                 |                  |
+| #9025 | Viewpoint Background | Dunyu Ruins: Dunyu Ruins                                    |                  |
+| #9026 | Viewpoint Background | Qingxu's Forsaken Tower: Qingxu Pool                        |                  |
+| #9027 | Viewpoint Background | Nine Pillars of Peace: Cuijue Slope                         |                  |
