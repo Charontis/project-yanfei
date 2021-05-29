@@ -42,7 +42,7 @@
 | #110  | Achievement Namecard | Achievement: Challenger II                                  | challenger2      |
 | #111  | Achievement Namecard | Achievement: Challenger III                                 | challenger3      |
 | #112  | Achievement Namecard | Achievement: Cliffhanger                                    | cliffhanger      |
-| #113  | Achievement Namecard | Genshin Impact: A New World                                 | world            |
+| #113  | Default Namecard     | Genshin Impact: A New World                                 | world            |
 | #114  | Achievement Namecard | Achievement: Colors of the Rainbow                          | elements         |
 | #115  | Achievement Namecard | Achievement: Explorer                                       | explorer         |
 | #116  | Achievement Namecard | Achievement: Hero                                           | hero             |
