@@ -1,4 +1,4 @@
-## Copyright © Genshin Impact, miHoYo.
+## Copyright © [miHoYo](https://mihoyo.com/).
 
 | ID    | Category             | Namecard Name                                               | Namecard Aliases |
 | ----- | -------------------- | ----------------------------------------------------------- | ---------------- |
