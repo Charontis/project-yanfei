@@ -4,6 +4,8 @@
 | ----- | -------------------- | ----------------------------------------------------------- | ---------------- |
 | #1    | Character Friendship | Albedo: Sun Blossom                                         | albedo           |
 | #2    | Character Friendship | Amber: Bunny                                                | amber            |
+|       | Character Friendship | Ayaka: ???                                                  |                  |
+|       | Character Friendship | Baizhu: ???                                                 |                  |
 | #3    | Character Friendship | Barbara: Flow                                               | bunny            |
 | #4    | Character Friendship | Beidou: Weighing Anchor                                     | beidou           |
 | #5    | Character Friendship | Bennett: Recognition                                        | bennett          |
@@ -25,6 +27,7 @@
 | #21   | Character Friendship | Qiqi: Cold Storage                                          | qiqi             |
 | #22   | Character Friendship | Razor: Wolvensprint                                         | razor            |
 | #23   | Character Friendship | Rosaria: Indenture                                          | rosaria          |
+|       | Character Friendship | Sayu: ???                                                   |                  |
 | #24   | Character Friendship | Sucrose: Bio-Alchemy                                        | sucrose          |
 | #25   | Character Friendship | Tartaglia: Foul Legacy                                      | tartaglia        |
 | #26   | Character Friendship | Venti: Azure Sky                                            | venti            |
@@ -33,10 +36,12 @@
 | #29   | Character Friendship | Xingqiu: Rainbow                                            | xingqiu          |
 | #30   | Character Friendship | Xinyan: Song's End                                          | xinyan           |
 | #31   | Character Friendship | Yanfei: Impartial                                           | yanfei           |
+|       | Character Friendship | Yaoyao: ???                                                 |                  |
+|       | Character Friendship | Yoimiya: ???                                                |                  |
 | #32   | Character Friendship | Zhongli: Planet Befall                                      | zhongli          |
 | ----- | -------------------- | ----------------------------------------------------------- | ---------------- |
 | #101  | Achievement Namecard | Achievement: Deep & Dark                                    | abyss            |
-| #102  | Frostbearing         | Frostbearing: Ancient Tree                                  | ancient          |               
+| #102  | Achievement Namecard | Frostbearing: Ancient Tree                                  | ancient          |               
 | #103  | Achievement Namecard | Achievement: Bowmaster                                      | bowmaster        |
 | #109  | Achievement Namecard | Achievement: Challenger                                     | challenger       |
 | #110  | Achievement Namecard | Achievement: Challenger II                                  | challenger2      |
