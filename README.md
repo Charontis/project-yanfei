@@ -47,6 +47,5 @@ Yanfei lists all the banners in Genshin Impact, including past, current ongoing,
 | Wiki | y!weapon list [rarity]                    | Lists all the weapons in game, including upcoming weapons.
 
 ## Credits
-- another#0040 and .𝐼𝒹𝑒𝒶𝓁𝒾𝓈𝓉𝒶™ ☕#5935 - Developers
-- xStarRiver#1616, Brayden Leung#6139 and UASN Stellania#4885 - Contributors
-- Saeed#3680, KLEIN#6784, 試吓唔好咁#1426, Thomas3388#0267, CallousNovem#7397 and I love プルシュカ#9722 - Beta Testers
+- 試吓唔好咁#0201, another#0040 and .𝐼𝒹𝑒𝒶𝓁𝒾𝓈𝓉𝒶™ ☕#5935 - Developers
+- Saeed#3680, Stellania#4885, xStarRiver#7373 and I love プルシュカ#2277 - Contributors
