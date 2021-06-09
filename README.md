@@ -3,15 +3,16 @@
 #### My name is Yanfei, a top legal expert in Liyue — and for the avoidance of doubt, no one else comes close! My contact details... Where should I write this down? ...Hmm, I'll just write it here, whatever this thing that follows you around.
 ---
 
-The default prefix is `y!`, and can be changed customizable. Yanfei can also be called out by mentioning or guild customized prefix. However, some commands require users to have `Manage Server` permission.
+The default prefix is `y!` and `yanfei <command>`, and can be changed customizable. Yanfei can also be called out by mentioning or guild customized prefix. However, some commands require users to have `Manage Server` permission.
 
 Yanfei lists all the banners in Genshin Impact, including past, current ongoing, and upcoming banners. Click [here](https://github.com/Another7139/yanfei/blob/main/banners.md) for a list of available banners. 
 
 #### Yanfei available commands
-| Category | Commands | Description |
+| Category | Commands | Description
+| -        | -        | - 
 | Gacha | y!gacha <banner>    | Roll on one of the banners.
 | Gacha | y!gacha history     | Displays previous gacha results. Up to 900 wishes.
-| Gacha | y!gacha list        | Spoiler Alert: Lists all the available (past, current ongoing and upcoming) banners of Genshin Impact.
+| Gacha | y!gacha list        | **Spoiler Alert**: Lists all the available (past, current ongoing and upcoming) banners of Genshin Impact.
 | Gacha | y!gacha rates       | Shows the weapons, characters, and gacha rates on each banner.
 | Miscellaneous | y!credits                                            | Shows the list of people who have contributed to the bot.
 | Miscellaneous | y!help [command]                                     | Shows the command usage, aliases and description. If nothing is provided, shows the help menu instead.
@@ -40,7 +41,7 @@ Yanfei lists all the banners in Genshin Impact, including past, current ongoing,
 | Profile | y!profile uid <uid>                            | Changes the uid on their profile. Maximum 9 characters.
 | Wiki | y!character [level] <name>                | Displays information of a character, such as HP, ATK, DEF and substats.
 | Wiki | y!character constellations <name>         | Shows the constellation details of a character.
-| Wiki | y!character list [rarity]                 | Spoiler Alert: Lists all the playable, upcoming and unreleased characters.
+| Wiki | y!character list [rarity]                 | **Spoiler Alert**: Lists all the playable, upcoming and unreleased characters.
 | Wiki | y!character skills <name>                 | Shows the skills and passive talents of a character.
 | Wiki | y!weapon [level] [refinement rank] <name> | Displays information of a weapon, such as mainstats, substats and their passive.
 | Wiki | y!weapon list [rarity]                    | Lists all the weapons in game, including upcoming weapons.
@@ -49,5 +50,3 @@ Yanfei lists all the banners in Genshin Impact, including past, current ongoing,
 - another#0040 and .𝐼𝒹𝑒𝒶𝓁𝒾𝓈𝓉𝒶™ ☕#5935 - Developers
 - xStarRiver#1616, Brayden Leung#6139 and UASN Stellania#4885 - Contributors
 - Saeed#3680, KLEIN#6784, 試吓唔好咁#1426, Thomas3388#0267, CallousNovem#7397 and I love プルシュカ#9722 - Beta Testers
-
-[do not click these](https://raw.githubusercontent.com/Another7139/yanfei/main/%C2%AD.jpeg) [hyperlinks](https://raw.githubusercontent.com/Another7139/yanfei/main/%C2%AD.jpg) [on this message](https://raw.githubusercontent.com/Another7139/yanfei/main/%C2%AD.jpeg)
