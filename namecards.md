@@ -18,6 +18,7 @@
 | #12   | Character Friendship | Hu Tao: Spirit Soother                                      | hutao            |
 | #13   | Character Friendship | Jean: The Winds' Course                                     | jean             |
 | #14   | Character Friendship | Kaeya: Pavo Ocellus                                         | kaeya            |
+|       | Character Friendship | Kazuha: ???                                                 |                  |
 | #15   | Character Friendship | Keqing: Lightning Stiletto                                  | keqing           |
 | #16   | Character Friendship | Klee: Explosive                                             | klee             |
 | #17   | Character Friendship | Lisa: Tempus Fugit                                          | lisa             |
