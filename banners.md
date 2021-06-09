@@ -6,7 +6,7 @@
 | #2  | Past            | Event Wish    |  Ballad in Goblets          |  venti-old     |
 | #3  | Past            | Event Wish    |  Epitome Invocation         |  aquaila       |
 | #4  | Past            | Event Wish    |  Sparkling Steps            |  klee-old      |
-| #5  | Past            | Event Wish    |  Epitome Invocation         |  prayer        |
+| #5  | Past            | Event Wish    |  Epitome Invocation         |  prayer-old    |
 | --- | --------------- | ------------- | --------------------------- | -------------- |
 | #6  | Past            | Event Wish    |  Farewell of Snezhnaya      |  tartaglia-old |
 | #7  | Past            | Event Wish    |  Epitome Invocation         |  harp-old      |
@@ -31,13 +31,13 @@
 | --- | --------------- | ------------- | --------------------------- | -------------- |
 | #23 | Past            | Event Wish    |  Gentry of Hermitage        |  zhongli       |
 | #24 | Past            | Event Wish    |  Epitome Invocation         |  summit        |
-| #25 | Current Ongoing | Event Wish    |  Born of Ocean Swell        |  eula          |
-| #26 | Current Ongoing | Event Wish    |  Epitome Invocation         |  pine          |
+| #25 | Past            | Event Wish    |  Born of Ocean Swell        |  eula          |
+| #26 | Past            | Event Wish    |  Epitome Invocation         |  pine          |
 | --- | --------------- | ------------- | --------------------------- | -------------- |
-| #27 | Upcoming        | Event Wish    |  Sparkling Steps            |  klee          |
-| #28 | Upcoming        | Event Wish    |                             |                |
+| #27 | Current Ongoing | Event Wish    |  Sparkling Steps            |  klee          |
+| #28 | Current Ongoing | Event Wish    |  Epitome Invocation         |  prayer        |
 | #29 | Upcoming        | Event Wish    |  Leaves in the Wind         |  kazuha        |
-| #30 | Upcoming        | Event Wish    |                             |                |
+| #30 | Upcoming        | Event Wish    |  Epitome Invocation         |                |
 | --- | --------------- | ------------- | --------------------------- | -------------- |
 | #31 | Upcoming        | Event Wish    |                             |                |
 | #32 | Upcoming        | Event Wish    |                             |                |
