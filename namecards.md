@@ -2,49 +2,49 @@
 
 | ID    | Location                 | Category                      | Namecard Name                                               | Namecard Aliases |
 | -     | -                        | -                             | -                                                           | -                |
-| #1    | Mondstadt                | Character Friendship Lv. 10   | Albedo: Sun Blossom                                         | albedo           |
-| #2    | Mondstadt                | Character Friendship Lv. 10   | Amber: Bunny                                                | amber            |
-|       | Inazuma                  | Character Friendship Lv. 10   | Kamisato Ayaka: ???                                         |                  |
-|       | Sumeru                   | Character Friendship Lv. 10   | Baizhu: ???                                                 |                  |
-| #5    | Mondstadt                | Character Friendship Lv. 10   | Barbara: Flow                                               | bunny            |
-| #6    | Liyue                    | Character Friendship Lv. 10   | Beidou: Weighing Anchor                                     | beidou           |
-| #7    | Mondstadt                | Character Friendship Lv. 10   | Bennett: Recognition                                        | bennett          |
-| #8    | Liyue                    | Character Friendship Lv. 10   | Chongyun: Spirit Blade                                      | chongyun         |
-| #9    | Mondstadt                | Character Friendship Lv. 10   | Diluc: Flames                                               | diluc            |
-| #10   | Mondstadt                | Character Friendship Lv. 10   | Diona: Meow!                                                | diona            |
-| #11   | Mondstadt                | Character Friendship Lv. 10   | Eula: Ice-Sealed                                            | eula             |
-| #12   | Mondstadt                | Character Friendship Lv. 10   | Fischl: Night Raven                                         | fischl           |
-| #13   | Liyue                    | Character Friendship Lv. 10   | Ganyu: Qilin                                                | ganyu            |
-| #14   | Liyue                    | Character Friendship Lv. 10   | Hu Tao: Spirit Soother                                      | hutao            |
-| #15   | Mondstadt                | Character Friendship Lv. 10   | Jean: The Winds' Course                                     | jean             |
-| #16   | Mondstadt                | Character Friendship Lv. 10   | Kaeya: Pavo Ocellus                                         | kaeya            |
-| #17   | Inazuma                  | Character Friendship Lv. 10   | Kaedehara Kazuha: Akiyama Momijigari                        | kazuha           |
-| #18   | Liyue                    | Character Friendship Lv. 10   | Keqing: Lightning Stiletto                                  | keqing           |
-| #19   | Mondstadt                | Character Friendship Lv. 10   | Klee: Explosive                                             | klee             |
-|       | Inazuma                  | Character Friendship Lv. 10   | Kokomi: ???                                                 |                  |
-| #21   | Mondstadt                | Character Friendship Lv. 10   | Lisa: Tempus Fugit                                          | lisa             |
-| #22   | Mondstadt                | Character Friendship Lv. 10   | Mona: Starry Sky                                            | mona             |
-| #23   | Liyue                    | Character Friendship Lv. 10   | Ningguang: Phoenix                                          | ningguang        |
-| #24   | Mondstadt                | Character Friendship Lv. 10   | Noelle: Protector                                           | noelle           |
-| #25   | Liyue                    | Character Friendship Lv. 10   | Qiqi: Cold Storage                                          | qiqi             |
-| #26   | Mondstadt                | Character Friendship Lv. 10   | Razor: Wolvensprint                                         | razor            |
-| #27   | Mondstadt                | Character Friendship Lv. 10   | Rosaria: Indenture                                          | rosaria          |
-|       | Inazuma                  | Character Friendship Lv. 10   | Kujou Sara: ???                                             |                  |
-|       | Inazuma                  | Character Friendship Lv. 10   | Sayu: ???                                                   |                  |
-|       | Inazuma                  | Character Friendship Lv. 10   | Raiden Shogun: ???                                          |                  |
-| #31   | Mondstadt                | Character Friendship Lv. 10   | Sucrose: Bio-Alchemy                                        | sucrose          |
-| #32   | Liyue                    | Character Friendship Lv. 10   | Tartaglia: Foul Legacy                                      | tartaglia        |
-|       | Inazuma                  | Character Friendship Lv. 10   | Thoma: ???                                                  |                  |
-| #34   | Mondstadt                | Character Friendship Lv. 10   | Venti: Azure Sky                                            | venti            |
-| #35   | Liyue                    | Character Friendship Lv. 10   | Xiangling: Fresh from the Pan                               | xiangling        |
-| #36   | Liyue                    | Character Friendship Lv. 10   | Xiao: Mask                                                  | xiao             |
-| #37   | Liyue                    | Character Friendship Lv. 10   | Xingqiu: Rainbow                                            | xingqiu          |
-| #38   | Liyue                    | Character Friendship Lv. 10   | Xinyan: Song's End                                          | xinyan           |
-|       | Inazuma                  | Character Friendship Lv. 10   | Yae Miko: ???                                               |                  |
-| #40   | Liyue                    | Character Friendship Lv. 10   | Yanfei: Impartial                                           | yanfei           |
-|       | Sumeru                   | Character Friendship Lv. 10   | Yaoyao: ???                                                 |                  |
-|       | Inazuma                  | Character Friendship Lv. 10   | Yoimiya: ???                                                |                  |
-| #43   | Liyue                    | Character Friendship Lv. 10   | Zhongli: Planet Befall                                      | zhongli          |
+| #1    | Mondstadt                | Character Friendship          | Albedo: Sun Blossom                                         | albedo           |
+| #2    | Mondstadt                | Character Friendship          | Amber: Bunny                                                | amber            |
+|       | Inazuma                  | Character Friendship          | Kamisato Ayaka: ???                                         |                  |
+|       | Sumeru                   | Character Friendship          | Baizhu: ???                                                 |                  |
+| #5    | Mondstadt                | Character Friendship          | Barbara: Flow                                               | bunny            |
+| #6    | Liyue                    | Character Friendship          | Beidou: Weighing Anchor                                     | beidou           |
+| #7    | Mondstadt                | Character Friendship          | Bennett: Recognition                                        | bennett          |
+| #8    | Liyue                    | Character Friendship          | Chongyun: Spirit Blade                                      | chongyun         |
+| #9    | Mondstadt                | Character Friendship          | Diluc: Flames                                               | diluc            |
+| #10   | Mondstadt                | Character Friendship          | Diona: Meow!                                                | diona            |
+| #11   | Mondstadt                | Character Friendship          | Eula: Ice-Sealed                                            | eula             |
+| #12   | Mondstadt                | Character Friendship          | Fischl: Night Raven                                         | fischl           |
+| #13   | Liyue                    | Character Friendship          | Ganyu: Qilin                                                | ganyu            |
+| #14   | Liyue                    | Character Friendship          | Hu Tao: Spirit Soother                                      | hutao            |
+| #15   | Mondstadt                | Character Friendship          | Jean: The Winds' Course                                     | jean             |
+| #16   | Mondstadt                | Character Friendship          | Kaeya: Pavo Ocellus                                         | kaeya            |
+| #17   | Inazuma                  | Character Friendship          | Kaedehara Kazuha: Akiyama Momijigari                        | kazuha           |
+| #18   | Liyue                    | Character Friendship          | Keqing: Lightning Stiletto                                  | keqing           |
+| #19   | Mondstadt                | Character Friendship          | Klee: Explosive                                             | klee             |
+|       | Inazuma                  | Character Friendship          | Kokomi: ???                                                 |                  |
+| #21   | Mondstadt                | Character Friendship          | Lisa: Tempus Fugit                                          | lisa             |
+| #22   | Mondstadt                | Character Friendship          | Mona: Starry Sky                                            | mona             |
+| #23   | Liyue                    | Character Friendship          | Ningguang: Phoenix                                          | ningguang        |
+| #24   | Mondstadt                | Character Friendship          | Noelle: Protector                                           | noelle           |
+| #25   | Liyue                    | Character Friendship          | Qiqi: Cold Storage                                          | qiqi             |
+| #26   | Mondstadt                | Character Friendship          | Razor: Wolvensprint                                         | razor            |
+| #27   | Mondstadt                | Character Friendship          | Rosaria: Indenture                                          | rosaria          |
+|       | Inazuma                  | Character Friendship          | Kujou Sara: ???                                             |                  |
+|       | Inazuma                  | Character Friendship          | Sayu: ???                                                   |                  |
+|       | Inazuma                  | Character Friendship          | Raiden Shogun: ???                                          |                  |
+| #31   | Mondstadt                | Character Friendship          | Sucrose: Bio-Alchemy                                        | sucrose          |
+| #32   | Liyue                    | Character Friendship          | Tartaglia: Foul Legacy                                      | tartaglia        |
+|       | Inazuma                  | Character Friendship          | Thoma: ???                                                  |                  |
+| #34   | Mondstadt                | Character Friendship          | Venti: Azure Sky                                            | venti            |
+| #35   | Liyue                    | Character Friendship          | Xiangling: Fresh from the Pan                               | xiangling        |
+| #36   | Liyue                    | Character Friendship          | Xiao: Mask                                                  | xiao             |
+| #37   | Liyue                    | Character Friendship          | Xingqiu: Rainbow                                            | xingqiu          |
+| #38   | Liyue                    | Character Friendship          | Xinyan: Song's End                                          | xinyan           |
+|       | Inazuma                  | Character Friendship          | Yae Miko: ???                                               |                  |
+| #40   | Liyue                    | Character Friendship          | Yanfei: Impartial                                           | yanfei           |
+|       | Sumeru                   | Character Friendship          | Yaoyao: ???                                                 |                  |
+|       | Inazuma                  | Character Friendship          | Yoimiya: ???                                                |                  |
+| #43   | Liyue                    | Character Friendship          | Zhongli: Planet Befall                                      | zhongli          |
 | #101  | Teyvat (Unknown)         | Achievement                   | Achievement: Deep & Dark                                    | abyss            |
 | #102  | Mondstadt                | Achievement                   | Frostbearing: Ancient Tree                                  | ancient          |               
 | #103  | Teyvat (Unknown)         | Achievement                   | Achievement: Bowmaster                                      | bowmaster        |
