@@ -15,6 +15,7 @@
 | #11   | Mondstadt                | Character Friendship          | Eula: Ice-Sealed                                            | eula             |
 | #12   | Mondstadt                | Character Friendship          | Fischl: Night Raven                                         | fischl           |
 | #13   | Liyue                    | Character Friendship          | Ganyu: Qilin                                                | ganyu            |
+|       | Teyvat                   | Character Friendship          | Gorou: ???                                                  |                  |
 | #14   | Liyue                    | Character Friendship          | Hu Tao: Spirit Soother                                      | hutao            |
 | #15   | Mondstadt                | Character Friendship          | Jean: The Winds' Course                                     | jean             |
 | #16   | Mondstadt                | Character Friendship          | Kaeya: Pavo Ocellus                                         | kaeya            |
