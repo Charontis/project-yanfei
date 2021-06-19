@@ -3,7 +3,7 @@
 #### My name is Yanfei, a top legal expert in Liyue — and for the avoidance of doubt, no one else comes close! My contact details... Where should I write this down? ...Hmm, I'll just write it here, whatever this thing that follows you around.
 ---
 
-Click [here](https://discord.com/oauth2/authorize?client_id=430725926989332480&scope=bot&permissions=379968) to invite Yanfei to your server. The default prefix is `y!` and `yanfei <command>`, and can be changed customizable. Yanfei can also be called out by mentioning or guild customized prefix. However, some commands require users to have `Manage Server` permission.
+Click [here](https://discord.com/oauth2/authorize?client_id=430725926989332480&scope=bot&permissions=37080128) to invite Yanfei to your server. The default prefix is `y!` and `yanfei <command>`, and can be changed customizable. Yanfei can also be called out by mentioning or guild customized prefix. However, some commands require users to have `Manage Server` permission.
 
 **Spoiler Alert**: Yanfei lists all the banners in Genshin Impact, including past, current ongoing, and upcoming banners. Click [here](https://github.com/Another7139/yanfei/blob/main/banners.md) for a list of banners. 
 
@@ -47,5 +47,5 @@ Click [here](https://discord.com/oauth2/authorize?client_id=430725926989332480&s
 | Wiki | y!weapon list [rarity]                    | Lists all the weapons in game, including upcoming weapons.
 
 ## Credits
-- 試吓唔好咁#0201, another#0040 and .𝐼𝒹𝑒𝒶𝓁𝒾𝓈𝓉𝒶™ ☕#5935 - Developers
+- 試吓唔好咁#0201, another#0040 and fish blasting child#5935 - Developers
 - Saeed#3680, Stellania#4885, xStarRiver#7373 and I love プルシュカ#2277 - Contributors
