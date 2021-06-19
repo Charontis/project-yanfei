@@ -40,7 +40,12 @@
 | #30 | Upcoming        | Event Wish    | Epitome Invocation         |                |
 | --- | --------------- | ------------- | -------------------------- | -------------- |
 | #31 | Upcoming        | Event Wish    |                            | yoimiya        |
-| #32 | Upcoming        | Event Wish    |                            |                |
+| #32 | Upcoming        | Event Wish    | Epitome Invocation         |                |
 | #33 | Upcoming        | Event Wish    |                            | ayaka          |
-| #34 | Upcoming        | Event Wish    |                            |                |
+| #34 | Upcoming        | Event Wish    | Epitome Invocation         |                |
+| --- | --------------- | ------------- | -------------------------- | -------------- |
+| #35 | Upcoming        | Event Wish    |                            |                |
+| #36 | Upcoming        | Event Wish    |                            |                |
+| #37 | Upcoming        | Event Wish    |                            |                |
+| #38 | Upcoming        | Event Wish    |                            |                |
 | --- | --------------- | ------------- | -------------------------- | -------------- |
