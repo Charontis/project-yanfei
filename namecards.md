@@ -22,7 +22,7 @@
 | #17   | Inazuma                  | Character Friendship          | Kaedehara Kazuha: Akiyama Momijigari                        | kazuha           |
 | #18   | Liyue                    | Character Friendship          | Keqing: Lightning Stiletto                                  | keqing           |
 | #19   | Mondstadt                | Character Friendship          | Klee: Explosive                                             | klee             |
-|       | Inazuma                  | Character Friendship          | Kokomi: ???                                                 |                  |
+|       | Inazuma                  | Character Friendship          | Sangonomiya Kokomi: ???                  |                  |
 | #21   | Mondstadt                | Character Friendship          | Lisa: Tempus Fugit                                          | lisa             |
 | #22   | Mondstadt                | Character Friendship          | Mona: Starry Sky                                            | mona             |
 | #23   | Liyue                    | Character Friendship          | Ningguang: Phoenix                                          | ningguang        |
