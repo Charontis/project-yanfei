@@ -34,14 +34,14 @@
 | #25 | Past            | Event Wish    | Born of Ocean Swell        | eula           |
 | #26 | Past            | Event Wish    | Epitome Invocation         | pine           |
 | --- | --------------- | ------------- | -------------------------- | -------------- |
-| #27 | Current Ongoing | Event Wish    | Sparkling Steps            | klee           |
-| #28 | Current Ongoing | Event Wish    | Epitome Invocation         | prayer         |
-| #29 | Upcoming        | Event Wish    | Leaves in the Wind         | kazuha         |
-| #30 | Upcoming        | Event Wish    | Epitome Invocation         |                |
+| #27 | Past            | Event Wish    | Sparkling Steps            | klee           |
+| #28 | Past            | Event Wish    | Epitome Invocation         | prayer         |
+| #29 | Current Ongoing | Event Wish    | Leaves in the Wind         | kazuha         |
+| #30 | Current Ongoing | Event Wish    | Epitome Invocation         |                |
 | --- | --------------- | ------------- | -------------------------- | -------------- |
-| #31 | Upcoming        | Event Wish    |                            | yoimiya        |
+| #31 | Upcoming        | Event Wish    | The Heron's Court          | ayaka          |
 | #32 | Upcoming        | Event Wish    | Epitome Invocation         |                |
-| #33 | Upcoming        | Event Wish    |                            | ayaka          |
+| #33 | Upcoming        | Event Wish    | Tapestry of Golden Flames  | yoimiya        |
 | #34 | Upcoming        | Event Wish    | Epitome Invocation         |                |
 | --- | --------------- | ------------- | -------------------------- | -------------- |
 | #35 | Upcoming        | Event Wish    |                            |                |
