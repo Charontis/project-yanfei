@@ -37,7 +37,7 @@
 | #27 | Past            | Event Wish    | Sparkling Steps            | klee           |
 | #28 | Past            | Event Wish    | Epitome Invocation         | prayer         |
 | #29 | Current Ongoing | Event Wish    | Leaves in the Wind         | kazuha         |
-| #30 | Current Ongoing | Event Wish    | Epitome Invocation         |                |
+| #30 | Current Ongoing | Event Wish    | Epitome Invocation         | sworn          |
 | --- | --------------- | ------------- | -------------------------- | -------------- |
 | #31 | Upcoming        | Event Wish    | The Heron's Court          | ayaka          |
 | #32 | Upcoming        | Event Wish    | Epitome Invocation         |                |
