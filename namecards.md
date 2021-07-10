@@ -4,7 +4,7 @@
 | -     | -                        | -                             | -                                                           | -                |
 | #1    | Mondstadt                | Character Friendship          | Albedo: Sun Blossom                                         | albedo           |
 | #2    | Mondstadt                | Character Friendship          | Amber: Bunny                                                | amber            |
-|       | Inazuma                  | Character Friendship          | Kamisato Ayaka: ???                                         |                  |
+| #3    | Inazuma                  | Character Friendship          | Kamisato Ayaka: ???                                         |                  |
 |       | Sumeru                   | Character Friendship          | Baizhu: ???                                                 |                  |
 | #5    | Mondstadt                | Character Friendship          | Barbara: Flow                                               | bunny            |
 | #6    | Liyue                    | Character Friendship          | Beidou: Weighing Anchor                                     | beidou           |
@@ -22,7 +22,7 @@
 | #17   | Inazuma                  | Character Friendship          | Kaedehara Kazuha: Akiyama Momijigari                        | kazuha           |
 | #18   | Liyue                    | Character Friendship          | Keqing: Lightning Stiletto                                  | keqing           |
 | #19   | Mondstadt                | Character Friendship          | Klee: Explosive                                             | klee             |
-|       | Inazuma                  | Character Friendship          | Sangonomiya Kokomi: ???                  |                  |
+|       | Inazuma                  | Character Friendship          | Sangonomiya Kokomi: ???                                     |                  |
 | #21   | Mondstadt                | Character Friendship          | Lisa: Tempus Fugit                                          | lisa             |
 | #22   | Mondstadt                | Character Friendship          | Mona: Starry Sky                                            | mona             |
 | #23   | Liyue                    | Character Friendship          | Ningguang: Phoenix                                          | ningguang        |
@@ -31,7 +31,7 @@
 | #26   | Mondstadt                | Character Friendship          | Razor: Wolvensprint                                         | razor            |
 | #27   | Mondstadt                | Character Friendship          | Rosaria: Indenture                                          | rosaria          |
 |       | Inazuma                  | Character Friendship          | Kujou Sara: ???                                             |                  |
-|       | Inazuma                  | Character Friendship          | Sayu: ???                                                   |                  |
+| #29   | Inazuma                  | Character Friendship          | Sayu: ???                                                   |                  |
 |       | Inazuma                  | Character Friendship          | Raiden Shogun: ???                                          |                  |
 | #31   | Mondstadt                | Character Friendship          | Sucrose: Bio-Alchemy                                        | sucrose          |
 | #32   | Liyue                    | Character Friendship          | Tartaglia: Foul Legacy                                      | tartaglia        |
@@ -44,7 +44,7 @@
 |       | Inazuma                  | Character Friendship          | Yae Miko: ???                                               |                  |
 | #40   | Liyue                    | Character Friendship          | Yanfei: Impartial                                           | yanfei           |
 |       | Sumeru                   | Character Friendship          | Yaoyao: ???                                                 |                  |
-|       | Inazuma                  | Character Friendship          | Yoimiya: ???                                                |                  |
+| #42   | Inazuma                  | Character Friendship          | Yoimiya: ???                                                |                  |
 | #43   | Liyue                    | Character Friendship          | Zhongli: Planet Befall                                      | zhongli          |
 | #101  | Teyvat (Unknown)         | Achievement                   | Achievement: Deep & Dark                                    | abyss            |
 | #102  | Mondstadt                | Achievement                   | Frostbearing: Ancient Tree                                  | ancient          |               
