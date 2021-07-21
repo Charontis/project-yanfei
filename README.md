@@ -29,7 +29,8 @@
 - `y!time`: Shows the time for each server timezone.
 - `y!weapon [level] [refinement rank] <name>`: Shows the weapon info, rarity, description and refinement rank.
   - If the weapon level is not given. The weapon level is Lv. 1.
-  - Otherwise, if the refinement rank is not given. The refinement rank is Lv. 1. *Example: Level 60 Skyward Spine (Refinement rank: 1): `y!weapon 60 Skyward Spine`*
+  - However, if the refinement rank is not given. The refinement rank is Lv. 1. *Example: Level 60 Skyward Spine (Refinement rank: 1): `y!weapon 60 Skyward Spine`*
+  - Otherwise, if the weapon level and refinement rank is not empty. The weapon level and refinement rank depends on what you typed. *Example: Level 90 Amo's Bow (Max Refinement Rank): `y!weapon 90 5 Amo's Bow`*
   - Eventually, if either the weapon level or the refinement rank do not exist/match from our database. The weapon level and the refinement rank is Lv. 1 instead.
 - `y!weapon-list [rarity]`: Lists all the available weapons.
   - This command supports filtering by rarity. Example: `y!weapon-list 5` to show all the 5★ weapons.
@@ -62,7 +63,43 @@
 - `y!whitelist-command <command>`: Stops the bot from ignoring certain commands.
 
 ### Music
-- I am too lazy to make this category. But for sure, it will appear Soon™.
+- `y!loop <mode>`: Sets the current repeating mode for the voice channel.
+  - `y!loop this/song`: Repeats the current playing song.
+  - `y!loop all/queue`: Repeats the whole music queue.
+  - `y!loop off/disable`: Disables the repeating mode.
+- `y!np`: Shows the now playing music for the voice channel.
+- `y!pause`: Pauses the current ongoing music.
+- `y!play <video name / url>`: Plays specific music to the voice channel.
+- `y!queue`: Shows the current music queue.
+- `y!remove <integer>`: Removes a song from the music queue on the server. Song IDs can be found by using the queue command.
+- `y!restart`: Stops and replays the current playing song.
+- `y!resume`: Unpauses the paused song.
+- `y!shuffle`: Shuffles the entire music queue.
+- `y!skip`: Skips the current ongoing song.
+- `y!stop`: Stops playing and leaves the voice channel.
+- `y!volume <integer>`: Changes the current music volume.
+  ##### Music Modes
+  - 8d
+  - bass-boost
+  - cursed
+  - daycore
+  - double
+  - flanger
+  - gate
+  - haas
+  - half
+  - mcompand
+  - nightcore
+  - normalizer
+  - phaser
+  - pulsator
+  - reverse
+  - sub-boost
+  - surround
+  - treble
+  - tremolo
+  - vaporwave
+  - vibrato
 
 ### Playlist
 - `y!all`: Plays the entire Genshin Impact soundtracks.
