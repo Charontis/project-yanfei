@@ -9,7 +9,12 @@
 - `y!teyvat`: Converts the message into Teyvat language.
 
 ### Gacha
-- This category has been temporarily disabled from July 20th to 27th.
+- `y!history`: Shows your simulated gacha history, up to 100 roll.
+- `y!wish`: Shows a simulated results of wishing a banner.
+  - `y!wish one`: Single wish on a banner.
+  - `y!wish ten`: Wish on a banner, but ten times.
+  - `y!wish register`: You must register in order to start wishing.
+  - `y!wish inventor`: Views your gacha inventory with simulated results, with details such as constellations and refinement rank.
 
 ### Genshin Impact
 - `y!abyssal`: Displays all the blessing of the Spiral Abyss.
@@ -35,9 +40,6 @@
 - `y!weapon-list [rarity]`: Lists all the available weapons.
   - This command supports filtering by rarity. Example: `y!weapon-list 5` to show all the 5★ weapons.
 
-### Profile
-- This category has been temporarily disabled from July 20th to 27th.
-
 ### Miscellaneous
 - `y!help [command]`: Shows the help menu/specific command usage, aliases and description.
    - If nothing is provided. Shows the help menu instead.
@@ -58,7 +60,7 @@
 - `y!channels`: Lists all the ignored channels of the server.
 - `y!commands`: Lists all the ignored commands of the server.
 - `y!settings`: Shows the configured permissions for this server.
-- `y!reset-settings`: Resets the current configured settings for this server.
+- `y!reset-settings <option>`: Resets the current configured settings for this server.
 - `y!whitelist-channel <channel>`: Stops the bot from ignoring commands called on a category or channel.
 - `y!whitelist-command <command>`: Stops the bot from ignoring certain commands.
 
@@ -104,9 +106,15 @@
 ### Playlist
 - `y!all`: Plays the entire Genshin Impact soundtracks.
 - `y!archipelago`: Plays the Golden Apple Archipelago soundtracks.
-- `y!inazuma`: -
 - `y!jade`: Plays the Jade Moon Upon a Sea of Clouds (Liyue) soundtracks.
-- `y!shimmering`: -
+- `y!shimmering`: Plays the Shimmering Voyage soundtracks.
 - `y!star`: Plays the Wind and The Star Traveler soundtracks.
 - `y!stellar`: Plays the Stellar Moments soundtracks.
 - `y!wind`: Plays the City of Winds and Idylls (Mondstadt) soundtracks.
+
+### Profile
+- `y!avatar <aliases>`: Changes the profile avatar.
+- `y!namecard <aliases>`: Changes the profile background.
+- `y!profile`: View and customize the profile and background.
+- `y!signature <message>`: Type the message to change the profile signature. 
+- `y!uid <interger>`: Changes the profile uid.
