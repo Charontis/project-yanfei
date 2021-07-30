@@ -40,7 +40,7 @@
 | #30 | Current Ongoing | Event Wish    | Epitome Invocation         | sworn          |
 | --- | --------------- | ------------- | -------------------------- | -------------- |
 | #31 | Upcoming        | Event Wish    | The Heron's Court          | ayaka          |
-| #32 | Upcoming        | Event Wish    | Epitome Invocation         |                |
+| #32 | Upcoming        | Event Wish    | Epitome Invocation         | reforged       |
 | #33 | Upcoming        | Event Wish    | Tapestry of Golden Flames  | yoimiya        |
 | #34 | Upcoming        | Event Wish    | Epitome Invocation         |                |
 | --- | --------------- | ------------- | -------------------------- | -------------- |
